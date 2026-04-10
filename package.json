@@ -1,12 +1,12 @@
 {
-  "name": "rajin-portfolio",
+  "name": "hello-rajin",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "install": "npm install --legacy-peer-deps",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "next dev",
+    "start": "next start"
   },
   "dependencies": {
     "next": "14.2.24",
